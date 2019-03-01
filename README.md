@@ -1,2 +1,2 @@
-# daniela-stelia.github.com
+# Daniela-Stelia.github.com
 my personal projects
